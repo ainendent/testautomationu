@@ -2,6 +2,14 @@
 const fetchDataOverApi = require('./fetchData.js');
 
 @test
+public void ainendent(){
+
+}
+
+@test
+public void ainendent(){
+
+}
 
 //non async example
 test('the user data for user 1', () => {
