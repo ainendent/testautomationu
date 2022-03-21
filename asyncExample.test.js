@@ -1,6 +1,8 @@
 //assume fetchDataOverApi returns data from external api and function is called from another file
 const fetchDataOverApi = require('./fetchData.js');
 
+@test
+
 //non async example
 test('the user data for user 1', () => {
   const data = fetchDataOverApi();

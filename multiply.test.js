@@ -6,6 +6,8 @@ describe('test multiply positive scenarios', () =>{
     });
 })
 
+ @test
+
 test('object example', () => {
     const data = {first: 1};
     data['second'] = 2;
